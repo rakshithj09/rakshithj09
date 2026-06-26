@@ -32,12 +32,13 @@ Worked on AI-assisted inventory workflow and documentation projects.
 
 </div>
 
-# Contribution Activity
-
-[![Rakshith's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rakshithj09&theme=tokyo-night&hide_border=false)](https://github.com/rakshithj09)
-
-# Contribution Snake
+<p align="center">
+  <b>Contribution Snake</b>
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rakshithj09/rakshithj09/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+  <img
+    src="https://raw.githubusercontent.com/rakshithj09/rakshithj09/output/github-contribution-grid-snake.gif"
+    alt="Animated GitHub contribution snake"
+  />
 </p>
