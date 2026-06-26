@@ -18,8 +18,9 @@ jobs:
         with:
           github_user_name: rakshithj09
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github
+            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
