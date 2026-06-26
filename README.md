@@ -1,74 +1,83 @@
+<div align="center">
+
 # Rakshith Jayakarthikeyan
 
-Bentonville, Arkansas  
-[LinkedIn](https://linkedin.com/in/rakshith-jayakarthikeyan) · [Email](mailto:rakshith.jk2@gmail.com) · [GitHub](https://github.com/rakshithj09)
+Student software developer focused on AI tools, full-stack development, mobile apps, cybersecurity, and agriculture technology.
 
-Student software developer focused on AI-assisted workflow tools, mobile development, data analysis, cybersecurity, and agriculture technology.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshith-jayakarthikeyan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakshith.jk2@gmail.com)
+[![Portfolio](https://img.shields.io/badge/CropIntel-2F7D32?style=for-the-badge&logo=leaflet&logoColor=white)](https://cropintel-home.web.app/)
 
-## Experience
+</div>
 
-**Walmart Global Technology**  
-Full Stack SWE Extern | February 2026 to April 2026
+## About
 
-- Built an AI-assisted knowledge tool for inventory-related questions using GitHub repositories, Confluence pages, and system documentation.
-- Organized technical documentation to reduce repeated support questions and improve onboarding.
-- Reviewed workflow gaps across inventory applications.
-- Worked with engineers to validate answers and improve documentation quality.
+- Former Full Stack SWE Extern at Walmart Global Technology
+- Building CropIntel, a crop disease detection platform designed for field use
+- Interested in AI-assisted workflow systems, software development, and cybersecurity
+- Junior at Bentonville West High School, graduating May 2027
 
-**Haas Hall Academy**  
-Advisory Tutor | January 2024 to May 2024
+## Selected Work
 
-- Tutored 20+ students across multiple subjects.
-- Worked with faculty to track student progress and address learning challenges.
+### CropIntel
+Crop disease detection platform built for farmers and agricultural teams.
 
-## Selected Projects
+- Supports photo-based disease identification
+- Designed for use in low-connectivity field settings
+- Focused on practical next steps after diagnosis
 
-**CropIntel**  
-Crop disease detection platform designed for field use.
+### Walmart IMS Utility Tool
+AI-assisted support tool for inventory-related workflows.
 
-- Uses crop leaf images to identify possible diseases.
-- Focuses on offline access and practical field guidance.
-- Built for farmers, agronomists, and agricultural teams.
+- Built with React, Vite, Fastify, SSE streaming, and Jest
+- Uses internal documentation and system resources to answer team questions
+- Supports faster onboarding and fewer repeated support requests
 
-**Walmart IMS Utility Tool**  
-Software Developer | 2026
+### Zebra x Walmart RFID
+Mobile app concept for in-store navigation and inventory visibility.
 
-- Built a full-stack AI chatbot for Walmart inventory workflows.
-- Integrated service APIs, Fastify routing, and SSE-based streaming.
-- Developed React and Vite frontend components with backend logic and Jest tests.
+- Developed Smart Path, Smart Stock, Wishlist, and product search features
+- Focused on shopping efficiency and product availability
 
-**Zebra x Walmart RFID**  
-App Developer | August 2025 to September 2025
+### City of Bentonville Traffic Analysis
+Data project focused on signal timing performance.
 
-- Developed a mobile app concept for in-store shopping and inventory visibility.
-- Built Smart Path, Smart Stock, Wishlist, and product search features.
-- Completed market research and financial analysis for feasibility planning.
+- Analyzed traffic and timing data across 10 major intersections
+- Built performance scores to identify low-performing locations
+- Proposed dashboard metrics and pilot improvement steps
 
-**City of Bentonville Data Analysis**  
-Project Team Member | November 2025 to December 2025
+## Tech Stack
 
-- Analyzed traffic volume and signal timing data across 10 major intersections.
-- Built performance scoring methods to identify low-performing intersections.
-- Proposed a pilot plan with weekly dashboards and improvement thresholds.
+<div align="center">
 
-**Ouachita Baptist University Cybersecurity Project**  
-Project Manager and Penetration Testing Contributor | October 2025
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-- Led project planning, threat modeling, task allocation, and documentation.
-- Researched SQL injection and cross-site scripting risks.
-- Reported findings with reproducible steps and remediation guidance.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Technical Skills
-
-**Languages:** Python, Swift, C++, TypeScript, JavaScript, Dart
-
-**Development Tools:** Git, GitHub, Docker, Visual Studio Code, Xcode, Firebase, Confluence
-
-**Frameworks:** React Native, Node.js, Express, Flutter, SwiftUI
+</div>
 
 ## Recognition
 
 - 2nd Place Overall, HogHacks 2025
 - 4th Place, Arkansas DECA SCDC International Business Plan
-- Google Prompting Essentials Certification, 2025
-- Google AI Essentials Certification, 2025
+- Google Prompting Essentials, 2025
+- Google AI Essentials, 2025
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rakshithj09&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithj09&layout=compact&hide_border=true" />
+
+</div>
