@@ -1,99 +1,74 @@
 # Rakshith Jayakarthikeyan
 
-High school developer in Bentonville, Arkansas. I build software for real workflow problems across agriculture, inventory, mobile apps, and data analysis.
+Bentonville, Arkansas  
+[LinkedIn](https://linkedin.com/in/rakshith-jayakarthikeyan) · [Email](mailto:rakshith.jk2@gmail.com) · [GitHub](https://github.com/rakshithj09)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshith-jayakarthikeyan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rakshithj09)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rakshith.jk2@gmail.com)
-
-## Focus
-
-- Building CropIntel, a crop disease detection platform for field use
-- Developing full-stack web and mobile applications
-- Improving AI-assisted documentation and workflow tools
-- Learning cybersecurity fundamentals, traffic analysis, secure configuration, and incident response
-- Collaborating on focused projects with clear user needs
+Student software developer focused on AI-assisted workflow tools, mobile development, data analysis, cybersecurity, and agriculture technology.
 
 ## Experience
 
-### Walmart Global Technology
+**Walmart Global Technology**  
 Full Stack SWE Extern | February 2026 to April 2026
 
-- Built an AI-assisted knowledge tool for inventory-related support workflows
-- Organized technical documentation to reduce repeated questions and speed up onboarding
-- Reviewed workflow gaps and documentation issues across inventory applications
-- Worked with engineers to validate answers and improve documentation quality
+- Built an AI-assisted knowledge tool for inventory-related questions using GitHub repositories, Confluence pages, and system documentation.
+- Organized technical documentation to reduce repeated support questions and improve onboarding.
+- Reviewed workflow gaps across inventory applications.
+- Worked with engineers to validate answers and improve documentation quality.
 
-### Haas Hall Academy
+**Haas Hall Academy**  
 Advisory Tutor | January 2024 to May 2024
 
-- Tutored 20+ students across multiple subjects
-- Worked with faculty to track progress and address learning challenges
+- Tutored 20+ students across multiple subjects.
+- Worked with faculty to track student progress and address learning challenges.
 
-## Featured Work
+## Selected Projects
 
-### CropIntel
-Crop disease detection and field guidance platform designed for farmers.
+**CropIntel**  
+Crop disease detection platform designed for field use.
 
-- Uses crop leaf images to identify possible diseases
-- Supports field-focused recommendations and outbreak tracking
-- Built with Next.js, Python, TensorFlow Lite, Firebase, and Google Maps
+- Uses crop leaf images to identify possible diseases.
+- Focuses on offline access and practical field guidance.
+- Built for farmers, agronomists, and agricultural teams.
 
-### Zebra x Walmart RFID
-Mobile app concept focused on improving in-store shopping and inventory visibility.
+**Walmart IMS Utility Tool**  
+Software Developer | 2026
 
-- Built features for Smart Path, Smart Stock, Wishlist, and product search
-- Focused on navigation, stock awareness, and product discovery
-- Developed with mobile app workflows and RFID-focused concepts
+- Built a full-stack AI chatbot for Walmart inventory workflows.
+- Integrated service APIs, Fastify routing, and SSE-based streaming.
+- Developed React and Vite frontend components with backend logic and Jest tests.
 
-### City of Bentonville Data Analysis
-Traffic signal analysis project focused on identifying intersections with inconsistent timing.
+**Zebra x Walmart RFID**  
+App Developer | August 2025 to September 2025
 
-- Analyzed traffic volume and signal timing across 10 major intersections
-- Built probability and performance scoring methods for intersection ranking
-- Proposed a pilot plan with dashboards and improvement thresholds
+- Developed a mobile app concept for in-store shopping and inventory visibility.
+- Built Smart Path, Smart Stock, Wishlist, and product search features.
+- Completed market research and financial analysis for feasibility planning.
 
-### Ouachita Baptist University Cybersecurity Project
-Cybersecurity research project focused on SQL injection and cross-site scripting risks.
+**City of Bentonville Data Analysis**  
+Project Team Member | November 2025 to December 2025
 
-- Led project planning, task allocation, and threat modeling
-- Coordinated testing cycles and documentation standards
-- Reported findings with reproducible steps and remediation guidance
+- Analyzed traffic volume and signal timing data across 10 major intersections.
+- Built performance scoring methods to identify low-performing intersections.
+- Proposed a pilot plan with weekly dashboards and improvement thresholds.
 
-### HogHacks 2025
-2nd place overall among 150+ high school and college participants.
+**Ouachita Baptist University Cybersecurity Project**  
+Project Manager and Penetration Testing Contributor | October 2025
 
-- Built a cross-platform app during a 24-hour competition
-- Used TypeScript and Dart
-- Focused on reducing stress during debates
+- Led project planning, threat modeling, task allocation, and documentation.
+- Researched SQL injection and cross-site scripting risks.
+- Reported findings with reproducible steps and remediation guidance.
 
-## Tech Stack
+## Technical Skills
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+**Languages:** Python, Swift, C++, TypeScript, JavaScript, Dart
 
-### Frameworks and Tools
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+**Development Tools:** Git, GitHub, Docker, Visual Studio Code, Xcode, Firebase, Confluence
 
-## Highlights
+**Frameworks:** React Native, Node.js, Express, Flutter, SwiftUI
 
-- Full Stack SWE Extern at Walmart Global Technology
-- 2nd place overall at HogHacks 2025
-- 4th place at Arkansas DECA SCDC for International Business Plan
-- Project Lead for cybersecurity research work
-- App developer for Zebra x Walmart RFID project
+## Recognition
+
+- 2nd Place Overall, HogHacks 2025
+- 4th Place, Arkansas DECA SCDC International Business Plan
+- Google Prompting Essentials Certification, 2025
+- Google AI Essentials Certification, 2025
