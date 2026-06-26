@@ -30,18 +30,9 @@ Worked on AI-assisted inventory workflow and documentation projects.
 
 <img src="https://streak-stats.demolab.com?user=rakshithj09&theme=tokyonight&hide_border=false" />
 
-<br />
-<br />
-<br />
+<img
+  src="https://raw.githubusercontent.com/rakshithj09/rakshithj09/output/github-contribution-grid-snake-dark.svg"
+  alt="Animated GitHub contribution snake"
+/>
 
-
-<p align="center">
-  <b>Contribution Snake</b>
-</p>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/rakshithj09/rakshithj09/output/github-snake.gif"
-    alt="Animated GitHub contribution snake"
-  />
-</p>
+</div>
