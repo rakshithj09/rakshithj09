@@ -1,83 +1,34 @@
-<div align="center">
+# About Me
 
-# Rakshith Jayakarthikeyan
+🧩 **Interested in practical software**  
+AI tools, mobile apps, workflow systems, and real-world problem solving.
 
-Student software developer focused on AI tools, full-stack development, mobile apps, cybersecurity, and agriculture technology.
+🔐 **Learning cybersecurity**  
+Vulnerability research, traffic analysis, secure configuration, and incident response.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakshith-jayakarthikeyan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakshith.jk2@gmail.com)
-[![Portfolio](https://img.shields.io/badge/CropIntel-2F7D32?style=for-the-badge&logo=leaflet&logoColor=white)](https://cropintel-home.web.app/)
+📱 **Ask me about**  
+React, Node.js, Swift, Flutter, RFID retail tools, and mobile-first applications.
 
-</div>
+🎓 **Senior at Bentonville West High School**  
+Ignite Professional Studies student.
 
-## About
+🏢 **Former Full Stack SWE Extern at Walmart Global Technology**  
+Worked on AI-assisted inventory workflow and documentation projects.
 
-- Former Full Stack SWE Extern at Walmart Global Technology
-- Building CropIntel, a crop disease detection platform designed for field use
-- Interested in AI-assisted workflow systems, software development, and cybersecurity
-- Junior at Bentonville West High School, graduating May 2027
 
-## Selected Work
+# Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### CropIntel
-Crop disease detection platform built for farmers and agricultural teams.
-
-- Supports photo-based disease identification
-- Designed for use in low-connectivity field settings
-- Focused on practical next steps after diagnosis
-
-### Walmart IMS Utility Tool
-AI-assisted support tool for inventory-related workflows.
-
-- Built with React, Vite, Fastify, SSE streaming, and Jest
-- Uses internal documentation and system resources to answer team questions
-- Supports faster onboarding and fewer repeated support requests
-
-### Zebra x Walmart RFID
-Mobile app concept for in-store navigation and inventory visibility.
-
-- Developed Smart Path, Smart Stock, Wishlist, and product search features
-- Focused on shopping efficiency and product availability
-
-### City of Bentonville Traffic Analysis
-Data project focused on signal timing performance.
-
-- Analyzed traffic and timing data across 10 major intersections
-- Built performance scores to identify low-performing locations
-- Proposed dashboard metrics and pilot improvement steps
-
-## Tech Stack
+# GitHub Stats
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rakshithj09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithj09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
-</div>
+<br />
 
-## Recognition
-
-- 2nd Place Overall, HogHacks 2025
-- 4th Place, Arkansas DECA SCDC International Business Plan
-- Google Prompting Essentials, 2025
-- Google AI Essentials, 2025
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rakshithj09&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithj09&layout=compact&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=rakshithj09&theme=tokyonight&hide_border=false" />
 
 </div>
