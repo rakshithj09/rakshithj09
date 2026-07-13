@@ -13,24 +13,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rakshithj09">
-    <img src="https://img.shields.io/badge/Portfolio-GitHub%20Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/rakshith-jayakarthikeyan/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rakshith.jk2@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/rakshithj09">
-    <img src="https://img.shields.io/badge/GitHub-rakshithj09-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakshithj09&label=Profile%20Views&color=6d28d9&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/rakshithj09?label=Followers&style=flat-square&color=7c3aed" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/rakshithj09?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat-square&color=4f46e5" alt="Stars" />
 </p>
 
 ---
@@ -76,7 +64,7 @@ I have built internal tooling for Walmart Global Technology, an iOS retail conce
 ### Cloud, DevOps and Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Cloud, DevOps and tooling" />
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode" alt="Cloud, DevOps and tooling" />
 </p>
 
 ---
@@ -87,7 +75,7 @@ I have built internal tooling for Walmart Global Technology, an iOS retail conce
 |---|---:|---|
 | AI-Assisted Product Development | Advanced | Built an internal knowledge tool for inventory questions using repositories, documentation, service APIs, and streaming responses |
 | Prompt Engineering | Advanced | Completed Google Prompting Essentials and applied structured prompting to product workflows |
-| Retrieval and Knowledge Systems | Intermediate | Organized technical sources across GitHub, Confluence, and system documentation |
+| Retrieval and Knowledge Systems | Intermediate | Organized technical sources across repositories, Confluence, and system documentation |
 | Data Analysis | Intermediate | Built traffic performance metrics, heatmaps, corridor rankings, and deployment thresholds |
 | Model Integration | Intermediate | Integrated AI response flows into full-stack applications with server-side routing and live output |
 | Evaluation and Validation | Intermediate | Worked with engineers to verify answers, identify gaps, and improve documentation accuracy |
@@ -204,7 +192,7 @@ The project focused on reducing stress and improving organization during debate 
 Walmart Global Technology  
 February 2026 to April 2026
 
-Built an AI-assisted knowledge tool for inventory-related questions using GitHub repositories, Confluence pages, service APIs, and internal documentation.
+Built an AI-assisted knowledge tool for inventory-related questions using code repositories, Confluence pages, service APIs, and internal documentation.
 
 - Structured technical documentation to reduce repeated questions
 - Analyzed workflow and knowledge gaps across inventory applications
@@ -268,53 +256,6 @@ Tutored more than 20 students across multiple subjects and worked with faculty t
 
 ---
 
-## Coding Profiles
-
-<p align="center">
-  <a href="https://github.com/rakshithj09">
-    <img src="https://img.shields.io/badge/GitHub-View%20Code-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-</p>
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rakshithj09&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&ring_color=7c3aed" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=rakshithj09&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithj09&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c4b5fd&langs_count=8" alt="Top languages" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakshithj09&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub trophies" />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakshithj09&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&hide_border=true" alt="Contribution graph" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rakshithj09/rakshithj09/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-</p>
-
----
-
 ## Current Focus
 
 ```yaml
@@ -352,12 +293,6 @@ open_to:
   </a>
   <a href="https://www.linkedin.com/in/rakshith-jayakarthikeyan/">
     <img src="https://img.shields.io/badge/LinkedIn-Rakshith%20Jayakarthikeyan-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/rakshithj09">
-    <img src="https://img.shields.io/badge/GitHub-rakshithj09-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/rakshithj09">
-    <img src="https://img.shields.io/badge/Portfolio-Project%20Work-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
