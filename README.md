@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:7c3aed&height=220&section=header&text=Rakshith%20Jayakarthikeyan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Product-Focused%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=Rakshith%20Jayakarthikeyan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Product-Focused%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+full-stack+software+and+AI-assisted+tools;Designing+products+around+real+user+problems;Learning+through+engineering%2C+research%2C+and+leadership" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+full-stack+software+and+AI-assisted+tools;Designing+products+around+real+user+problems;Learning+through+engineering%2C+research%2C+and+leadership" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bentonville%20West%20High%20School-Class%20of%202027-4F46E5?style=flat-square" alt="Class of 2027" />
-  <img src="https://img.shields.io/badge/GPA-4.40-6D28D9?style=flat-square" alt="4.40 GPA" />
-  <img src="https://img.shields.io/badge/Location-Bentonville%2C%20Arkansas-7C3AED?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Bentonville%20West%20High%20School-Class%20of%202027-1E3A8A?style=flat-square" alt="Class of 2027" />
+  <img src="https://img.shields.io/badge/GPA-4.40-2563EB?style=flat-square" alt="4.40 GPA" />
+  <img src="https://img.shields.io/badge/Location-Bentonville%2C%20Arkansas-0F172A?style=flat-square" alt="Location" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rakshith-jayakarthikeyan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rakshith.jk2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -200,11 +200,9 @@ Built an AI-assisted knowledge tool for inventory-related questions using code r
 - Built frontend and backend features for live AI response flows
 
 <p>
-  <img src="https://img.shields.io/badge/React-312E81?style=flat-square&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-4F46E5?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Fastify-6D28D9?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
-  <img src="https://img.shields.io/badge/Jest-7C3AED?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Confluence-4338CA?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" />
+  <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-1E3A8A?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Confluence-2563EB?style=flat-square&logo=confluence&logoColor=white" alt="Confluence" />
 </p>
 
 ### Advisory Tutor
@@ -214,9 +212,9 @@ January 2024 to May 2024
 Tutored more than 20 students across multiple subjects and worked with faculty to track progress and resolve learning challenges.
 
 <p>
-  <img src="https://img.shields.io/badge/Mentoring-312E81?style=flat-square" alt="Mentoring" />
-  <img src="https://img.shields.io/badge/Communication-4F46E5?style=flat-square" alt="Communication" />
-  <img src="https://img.shields.io/badge/Academic%20Support-6D28D9?style=flat-square" alt="Academic support" />
+  <img src="https://img.shields.io/badge/Mentoring-0F172A?style=flat-square" alt="Mentoring" />
+  <img src="https://img.shields.io/badge/Communication-1E3A8A?style=flat-square" alt="Communication" />
+  <img src="https://img.shields.io/badge/Academic%20Support-2563EB?style=flat-square" alt="Academic support" />
 </p>
 
 ---
@@ -227,7 +225,6 @@ Tutored more than 20 students across multiple subjects and worked with faculty t
 
 | Recognition | Details |
 |---|---|
-| Eagle Scout | Planned and led a community hammock park project for the Illinois River Watershed Partnership |
 | HogHacks 2nd Place | Placed 2nd out of 150+ participants at the University of Arkansas |
 | Walmart Global Technology Extern | Built a full-stack internal AI knowledge tool for inventory systems |
 | Academic Performance | Maintained a 4.40 GPA at Bentonville West High School |
@@ -241,17 +238,16 @@ Tutored more than 20 students across multiple subjects and worked with faculty t
 ### Google
 
 <p>
-  <img src="https://img.shields.io/badge/Google%20Prompting%20Essentials-2025-6D28D9?style=for-the-badge&logo=google&logoColor=white" alt="Google Prompting Essentials" />
-  <img src="https://img.shields.io/badge/Google%20AI%20Essentials-2025-4F46E5?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Essentials" />
+  <img src="https://img.shields.io/badge/Google%20Prompting%20Essentials-2025-1E3A8A?style=for-the-badge&logo=google&logoColor=white" alt="Google Prompting Essentials" />
+  <img src="https://img.shields.io/badge/Google%20AI%20Essentials-2025-2563EB?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Essentials" />
 </p>
 
 ### Technical Coursework
 
 <p>
-  <img src="https://img.shields.io/badge/Programming%20Logic%20I%20and%20II-NWACC-312E81?style=flat-square" alt="Programming Logic I and II" />
-  <img src="https://img.shields.io/badge/AP%20Computer%20Science%20Principles-BWHS-4338CA?style=flat-square" alt="AP Computer Science Principles" />
-  <img src="https://img.shields.io/badge/AP%20Calculus%20AB-BWHS-6D28D9?style=flat-square" alt="AP Calculus AB" />
-  <img src="https://img.shields.io/badge/Robotics%20II-BWHS-7C3AED?style=flat-square" alt="Robotics II" />
+  <img src="https://img.shields.io/badge/Programming%20Logic%20I%20and%20II-NWACC-0F172A?style=flat-square" alt="Programming Logic I and II" />
+  <img src="https://img.shields.io/badge/AP%20Computer%20Science%20Principles-BWHS-1E3A8A?style=flat-square" alt="AP Computer Science Principles" />
+  <img src="https://img.shields.io/badge/AP%20Calculus%20AB-BWHS-2563EB?style=flat-square" alt="AP Calculus AB" />
 </p>
 
 ---
@@ -289,10 +285,10 @@ open_to:
 
 <p align="center">
   <a href="mailto:rakshith.jk2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rakshith.jk2%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-rakshith.jk2%40gmail.com-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/rakshith-jayakarthikeyan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rakshith%20Jayakarthikeyan-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Rakshith%20Jayakarthikeyan-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -303,5 +299,5 @@ open_to:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:6d28d9,100:312e81&height=140&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=140&section=footer" width="100%" alt="Footer" />
 </p>
