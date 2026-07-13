@@ -228,7 +228,6 @@ Tutored more than 20 students across multiple subjects and worked with faculty t
 | Recognition | Details |
 |---|---|
 | Eagle Scout | Planned and led a community hammock park project for the Illinois River Watershed Partnership |
-| Assistant Senior Patrol Leader | Helped lead a troop of more than 70 Scouts through meetings, events, communication, and advancement support |
 | HogHacks 2nd Place | Placed 2nd out of 150+ participants at the University of Arkansas |
 | Walmart Global Technology Extern | Built a full-stack internal AI knowledge tool for inventory systems |
 | Academic Performance | Maintained a 4.40 GPA at Bentonville West High School |
@@ -251,6 +250,7 @@ Tutored more than 20 students across multiple subjects and worked with faculty t
 <p>
   <img src="https://img.shields.io/badge/Programming%20Logic%20I%20and%20II-NWACC-312E81?style=flat-square" alt="Programming Logic I and II" />
   <img src="https://img.shields.io/badge/AP%20Computer%20Science%20Principles-BWHS-4338CA?style=flat-square" alt="AP Computer Science Principles" />
+  <img src="https://img.shields.io/badge/AP%20Calculus%20AB-BWHS-6D28D9?style=flat-square" alt="AP Calculus AB" />
   <img src="https://img.shields.io/badge/Robotics%20II-BWHS-7C3AED?style=flat-square" alt="Robotics II" />
 </p>
 
